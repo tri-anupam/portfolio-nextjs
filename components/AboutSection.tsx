@@ -39,7 +39,7 @@ const AboutSection = () => {
                         </p>
                         <br />
                         <p>
-                            I'm a versatile full-stack MERN developer with a strong grasp of AWS, Git & GitHub, TypeScript, Golang, and Docker. My expertise spans both frontend and backend development, allowing me to create dynamic web applications. I leverage AWS for robust cloud solutions, utilize Git & GitHub for effective version control, and implement TypeScript for enhanced code quality. <br />Additionally, my proficiency in Golang and Docker enables me to create efficient and scalable backend services. My well-rounded skill set ensures that I can tackle various aspects of the development process, delivering comprehensive and high-quality solutions.
+                            {"I'm"} a versatile full-stack MERN developer with a strong grasp of AWS, Git & GitHub, TypeScript, Golang, and Docker. My expertise spans both frontend and backend development, allowing me to create dynamic web applications. I leverage AWS for robust cloud solutions, utilize Git & GitHub for effective version control, and implement TypeScript for enhanced code quality. <br />Additionally, my proficiency in Golang and Docker enables me to create efficient and scalable backend services. My well-rounded skill set ensures that I can tackle various aspects of the development process, delivering comprehensive and high-quality solutions.
                         </p>
                         <br />
                         <p>
