@@ -38,7 +38,7 @@ const HeroSection = () => {
                         Projects
                     </Link>
 
-                    <a href="#" target="_blank" className="text-neutral-100 font-semibold px-6 py-3 m-2 bg-orange-600 rounded shadow hover:bg-orange-700 cursor-pointer">Resume</a>
+                    <a href="https://drive.google.com/file/d/1P_InZLkAdHd3bkVfUFMBBcHZrCEWSGAE/view" target="_blank" className="text-neutral-100 font-semibold px-6 py-3 m-2 bg-orange-600 rounded shadow hover:bg-orange-700 cursor-pointer">Resume</a>
                 </div>
             </div>
             <div className="flex flex-row items-center text-center justify-center ">
