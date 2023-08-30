@@ -6,6 +6,14 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const projects = [
     {
+        name: "React Admin Dashboard",
+        description:
+            "Admin Dashboard UI using technologies Reactjs, SCSS, Material UI and Recharts to create fully functional dashboard.",
+        image: "/admin-panel.png",
+        github: "https://github.com/tri-anupam/react-admin-dashboard",
+        link: "https://react-admin-dashboard-lemon.vercel.app/",
+    },
+    {
         name: "Doctor Appointment System",
         description:
             "Doctor Appointment System is a full stack MERN app including Tailwind css and Redux. It is used to appoint doctor in real time.",
