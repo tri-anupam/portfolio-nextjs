@@ -19,7 +19,7 @@ const projects = [
             "Doctor Appointment System is a full stack MERN app including Tailwind css and Redux. It is used to appoint doctor in real time.",
         image: "/doc-appoint.png",
         github: "https://github.com/tri-anupam/doctor-appointment-system",
-        link: "https://doctor-appointment-system-frontend.vercel.app/",
+        link: "",
     },
     {
         name: "Nextjs Auth Project",
